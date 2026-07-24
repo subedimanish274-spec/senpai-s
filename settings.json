@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MessiTheGoat",
+    "username": "MessiTheGoatAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Nakulpun1.aternos.me",
-    "port": 50167,
+    "ip": "peacefulserver2.aternos.me",
+    "port": 19563,
     "version": "1.20.1",
     "try-creative": false
   },
